@@ -1,0 +1,7 @@
+#LWP-Cookies-2.0
+Set-Cookie3: _octo="GH1.1.811638859.1553075281"; path="/"; domain=".github.com"; path_spec; domain_dot; expires="2021-03-20 09:48:01Z"; version=0
+Set-Cookie3: dotcom_user=flamegit; path="/"; domain=".github.com"; path_spec; domain_dot; secure; expires="2039-03-20 09:48:01Z"; HttpOnly=None; version=0
+Set-Cookie3: logged_in=yes; path="/"; domain=".github.com"; path_spec; domain_dot; secure; expires="2039-03-20 09:48:01Z"; HttpOnly=None; version=0
+Set-Cookie3: __Host-user_session_same_site="MAdWLntQHHzFjYCnFIVREGA--w87ReEIKogQdPw8nNUeEbc2"; path="/"; domain="github.com"; path_spec; secure; expires="2019-04-03 09:48:01Z"; HttpOnly=None; SameSite=Strict; version=0
+Set-Cookie3: has_recent_activity=1; path="/"; domain="github.com"; path_spec; expires="2019-03-20 10:48:01Z"; version=0
+Set-Cookie3: user_session="MAdWLntQHHzFjYCnFIVREGA--w87ReEIKogQdPw8nNUeEbc2"; path="/"; domain="github.com"; path_spec; secure; expires="2019-04-03 09:48:01Z"; HttpOnly=None; version=0
